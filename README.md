@@ -37,153 +37,81 @@
 
 ---
 
-# 🎯 InfinityAlgo Academy - World's Leading AI Trading Algorithms & Automated Trading Systems
-
-## 🌟 Professional Trading Solutions | AI-Powered Algorithmic Trading | Expert Advisors & Trading Bots
-
-**InfinityAlgo Academy** is the **world's premier destination** for **AI trading algorithms**, **automated trading systems**, **algorithmic trading strategies**, and **professional trading education**. We develop cutting-edge **trading tools**, **expert advisors (EAs)**, **trading indicators**, and **trading bots** for **MetaTrader 4 (MT4)**, **MetaTrader 5 (MT5)**, **NinjaTrader**, and **TradingView** platforms.
-
-### 🔥 Keywords: AI Trading, Algorithmic Trading, Automated Trading, Trading Algorithms, Expert Advisors, Trading Bots, Trading Strategies, TradingView Indicators, MT4 EA, MT5 EA, Forex Trading, Stock Trading, Crypto Trading, Trading Education
-
----
-
-<table>
-<tr>
-<td width="60%">
-
-## 🚀 About InfinityAlgo Academy - Leading Trading Technology Provider
-
-**InfinityAlgo Academy** specializes in:
-
-### 🤖 AI Trading Algorithms & Machine Learning
-- **Artificial Intelligence Trading Systems** powered by advanced machine learning
-- **Neural Network Trading Algorithms** for predictive market analysis
-- **Deep Learning Trading Strategies** for automated decision-making
-- **AI-Powered Trading Bots** with real-time market adaptation
-
-### 📊 Automated Trading Systems & Expert Advisors
-- **MetaTrader 4 Expert Advisors (MT4 EA)** - Fully automated trading
-- **MetaTrader 5 Expert Advisors (MT5 EA)** - Advanced algorithmic trading
-- **NinjaTrader Strategies** - Professional automated trading systems
-- **TradingView Pine Script Indicators** - Custom trading indicators
-
-### 💹 Trading Strategies & Market Analysis
-- **Forex Trading Strategies** - Currency pairs algorithmic trading
-- **Stock Trading Algorithms** - Equity market automation
-- **Cryptocurrency Trading Bots** - Crypto automated trading
-- **Futures Trading Systems** - Commodities & indices trading
-- **Gold Trading Algorithms** - Precious metals specialized EAs
-
-### 🎓 Professional Trading Education
-- **Algorithmic Trading Courses** - Learn automated trading
-- **Trading Strategy Development** - Build your own systems
-- **Risk Management Training** - Professional money management
-- **Technical Analysis Education** - Master chart patterns & indicators
-
-</td>
-<td width="40%">
-
-```ascii
-╔══════════════════════════════════╗
-║   🏆 WORLD-CLASS TRADING TECH    ║
-╠══════════════════════════════════╣
-║  🤖 AI Trading Algorithms        ║
-║  📊 30+ Automated Systems        ║
-║  💹 Expert Advisors (EAs)        ║
-║  📈 TradingView Indicators       ║
-║  🌍 50+ Countries Served         ║
-║  👥 1000+ Professional Traders   ║
-║  ⭐ 100+ GitHub Stars            ║
-║  💰 $1M+ Trading Volume          ║
-║  📚 Complete Trading Education   ║
-║  🛡️ Risk Management Tools        ║
-║  ⚡ 24/7 Trading Support          ║
-║  🎯 95% Customer Satisfaction    ║
-╚══════════════════════════════════╝
-```
-
-### 🌐 Supported Trading Platforms
-- ✅ **MetaTrader 4 (MT4)** - Forex & CFD Trading
-- ✅ **MetaTrader 5 (MT5)** - Multi-Asset Trading
-- ✅ **NinjaTrader** - Futures & Forex Trading
-- ✅ **TradingView** - Technical Analysis Platform
-- ✅ **cTrader** - ECN Trading Platform
-
-</td>
-</tr>
-</table>
-
----
-
-
-## 🌟 Premium Trading Products - AI Algorithms & Automated Trading Systems
-
 <div align="center">
 
-### 💎 Professional Trading Arsenal - Expert Advisors, Indicators & Trading Bots
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+# 🏆 The Diamond Standard in AI Trading Technology
+### � Precision Algorithms • Neural Trading • Automated Excellence
 
 </div>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="55%">
 
-<h1>🤖</h1>
+## 🧠 Why InfinityAlgo Academy?
+**InfinityAlgo Academy** is at the forefront of the **Algorithmic Trading** revolution. We don't just provide indicators; we engineer high-frequency, AI-driven ecosystems designed for the modern market.
 
-### AI Trading Systems
+### 🤖 Intelligence at Core
+- **Advanced Neural Networks**: Predictive modeling for market direction.
+- **Genetic Algorithms**: Self-optimizing strategies for MT4/MT5.
+- **Deep Learning Integration**: Real-time market sentiment analysis.
 
-**Artificial Intelligence Trading**
-- **Mad Turtle AI** - ML Trading Bot
-- **Quantum Queen MT5** - AI Expert Advisor
-- **Neural Network EAs** - Deep Learning Trading
-
-**Keywords:** AI Trading, Machine Learning Trading, Neural Networks, Automated AI Trading
-
-</td>
-<td width="25%" align="center">
-
-<h1>🛡️</h1>
-
-### Risk Management
-
-**Professional Trading Protection**
-- **FTMO Protector PRO** - Prop Firm Protection
-- **Account Guardian** - Risk Management EA
-- **Drawdown Shield** - Loss Prevention System
-
-**Keywords:** Risk Management, Trading Protection, Drawdown Control, Money Management
+### ⚡ Execution Excellence
+- **Zero-Latency Execution**: Optimized for ultra-fast trading environments.
+- **Cross-Platform Portability**: Systems for MT4, MT5, NT8, and TradingView.
+- **Robust Risk Management**: Industrial-grade drawdown protection.
 
 </td>
-<td width="25%" align="center">
+<td width="45%" align="center">
 
-<h1>📊</h1>
+<br/>
 
-### Trading Indicators
+```css
+/* TRADING TECH STACK */
+╔════════════════════════════════════╗
+║ 🔵 AI Core: Neural Momentum V3.1   ║
+║ � Speed: 5ms Execution Latency    ║
+║ � Risk: Drawdown Shield Active    ║
+║ 🟣 Tech: PineScript | MQL4 | MQL5  ║
+║ � Assets: Forex | Crypto | Metals ║
+╠════════════════════════════════════╣
+║ ⭐ 1000+ Institutional Clients     ║
+║ 🌍 50+ Countries Worldwide         ║
+║ 💎 98% Strategy Precision Rate     ║
+╚════════════════════════════════════╝
+```
 
-**Technical Analysis Tools**
-- **Footprint Pro** - Order Flow Analysis
-- **Volume Profile** - Market Structure
-- **Price Action Indicators** - Chart Patterns
-
-**Keywords:** Trading Indicators, Technical Analysis, Chart Patterns, Market Analysis
-
-</td>
-<td width="25%" align="center">
-
-<h1>⚡</h1>
-
-### Expert Advisors
-
-**Automated Trading Robots**
-- **Gold Trading EA** - XAUUSD Algorithm
-- **Recovery Systems** - Drawdown Recovery
-- **Multi-Strategy Bots** - Diversified Trading
-
-**Keywords:** Expert Advisors, Trading Bots, Automated Trading, Trading Robots
+### 📲 Verified Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/MetaTrader_4-Full_Support-00BFFF?style=flat-square&logo=meta" alt="MT4"/>
+  <img src="https://img.shields.io/badge/MetaTrader_5-Advanced_EAs-00D9FF?style=flat-square&logo=meta" alt="MT5"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NinjaTrader-NT8_Ready-4ECDC4?style=flat-square" alt="NT8"/>
+  <img src="https://img.shields.io/badge/TradingView-Pine_Script-FF9800?style=flat-square&logo=tradingview" alt="TV"/>
+</p>
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 💎 Premium AI Trading Arsenal
+### Elite Tools for Professional Excellence
+
+| 🤖 AI Trading Systems | 🛡️ Risk Management | 📊 Trading Indicators | ⚡ Expert Advisors |
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/-Neural_Networks-00D9FF?style=for-the-badge&logo=brain" width="100%"/> | <img src="https://img.shields.io/badge/-Dynamic_Protection-4ECDC4?style=for-the-badge&logo=shield" width="100%"/> | <img src="https://img.shields.io/badge/-Order_Flow-FFD700?style=for-the-badge&logo=chart-bar" width="100%"/> | <img src="https://img.shields.io/badge/-Ultra_Execution-FF6B6B?style=for-the-badge&logo=zap" width="100%"/> |
+| **Mad Turtle AI**<br/>ML Trading Bot | **FTMO Protector**<br/>Prop Firm Guard | **Footprint Pro**<br/>Market Depth | **Gold Master EA**<br/>XAUUSD Precision |
+| **Quantum MT5**<br/>Neural Advisor | **Guardian Shield**<br/>Drawdown Control | **Price Action**<br/>Pattern Matrix | **Recovery EA**<br/>Loss Management |
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+</div>
 
 ---
 
@@ -293,151 +221,77 @@
 
 ---
 
-## 🎓 Trading Education & Learning Resources
-
-### 📚 Learn Algorithmic Trading, Automated Trading Systems & AI Trading Strategies
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<h1>📚</h1>
-
-### Trading Education
-
-**Comprehensive Trading Courses**
-
-- **Algorithmic Trading Course** - Learn automated trading from scratch
-- **Expert Advisor Development** - Build your own trading bots
-- **Trading Strategy Design** - Create profitable systems
-- **Risk Management Training** - Professional money management
-- **Technical Analysis Mastery** - Chart patterns & indicators
-- **Backtesting & Optimization** - Test and improve strategies
-
-**Keywords:** Trading Education, Trading Course, Learn Trading, Trading Training
-
-</td>
-<td width="33%" align="center">
-
-<h1>🛠️</h1>
-
-### Trading Tools
-
-**Professional Trading Software**
-
-- **30+ Expert Advisors** - Automated trading robots
-- **50+ Trading Indicators** - Technical analysis tools
-- **Risk Management Tools** - Account protection systems
-- **Backtesting Software** - Strategy testing platforms
-- **Trading Bots** - Cryptocurrency & Forex automation
-- **Signal Services** - Real-time trading alerts
-
-**Keywords:** Trading Tools, Trading Software, Trading Platforms, Trading Apps
-
-</td>
-<td width="33%" align="center">
-
-<h1>🤝</h1>
-
-### Trading Support
-
-**24/7 Professional Assistance**
-
-- **Active Trading Community** - 1000+ professional traders
-- **Expert Support Team** - Dedicated trading assistance
-- **Live Trading Sessions** - Real-time market analysis
-- **Strategy Consultation** - Personalized trading advice
-- **Technical Support** - Platform & software help
-- **Regular Updates** - Continuous improvement
-
-**Keywords:** Trading Support, Trading Community, Trading Help, Trading Assistance
-
-</td>
-</tr>
-</table>
-
 ---
-
-## 🌐 Trading Platforms Supported - Multi-Platform Trading Solutions
 
 <div align="center">
 
-### ⚡ Professional Trading Platforms Integration
+## 🎓 Elite Trading Education & Mastery
+### Master the Art of Algorithmic Trading
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="20%">
-<h1>📊</h1>
-<b>MetaTrader 4</b>
-<br><br>
-**Forex & CFD Trading**
-<br>
-Expert Advisors (EAs)
-<br>
-Custom Indicators
-<br>
-Automated Trading
-<br><br>
-<img src="https://img.shields.io/badge/Status-✅_Active-success?style=flat-square" alt="MT4 Trading Platform"/>
+<td width="33%" align="center">
+
+### 📚 Theory & Logic
+**Foundational Knowledge**
+- **Quant Logic 101**
+- **Algorithmic Architecture**
+- **Sentiment Analysis**
+- **Market Microstructure**
+
+<img src="https://img.shields.io/badge/Course-Verified-00D9FF?style=flat-square" alt="Verified CP"/>
+
 </td>
-<td align="center" width="20%">
-<h1>📈</h1>
-<b>MetaTrader 5</b>
-<br><br>
-**Multi-Asset Trading**
-<br>
-Advanced EAs
-<br>
-Technical Indicators
-<br>
-Algorithmic Trading
-<br><br>
-<img src="https://img.shields.io/badge/Status-✅_Active-success?style=flat-square" alt="MT5 Trading Platform"/>
+<td width="33%" align="center">
+
+### 🛠️ Development
+**Building the Future**
+- **MQL4/MQL5 Programming**
+- **PineScript Optimization**
+- **Python for Quant Finance**
+- **API Trading Integration**
+
+<img src="https://img.shields.io/badge/Tech-Advanced-4ECDC4?style=flat-square" alt="Tech Adv"/>
+
 </td>
-<td align="center" width="20%">
-<h1>🥷</h1>
-<b>NinjaTrader</b>
-<br><br>
-**Futures & Forex**
-<br>
-Trading Strategies
-<br>
-Order Flow Tools
-<br>
-Market Analysis
-<br><br>
-<img src="https://img.shields.io/badge/Status-✅_Active-success?style=flat-square" alt="NinjaTrader Platform"/>
-</td>
-<td align="center" width="20%">
-<h1>📉</h1>
-<b>TradingView</b>
-<br><br>
-**Technical Analysis**
-<br>
-Pine Script Indicators
-<br>
-Trading Strategies
-<br>
-Chart Analysis
-<br><br>
-<img src="https://img.shields.io/badge/Status-✅_Active-success?style=flat-square" alt="TradingView Platform"/>
-</td>
-<td align="center" width="20%">
-<h1>🤖</h1>
-<b>AI Trading</b>
-<br><br>
-**Machine Learning**
-<br>
-Neural Networks
-<br>
-Deep Learning
-<br>
-Predictive Analytics
-<br><br>
-<img src="https://img.shields.io/badge/Status-✅_Active-success?style=flat-square" alt="AI Trading Systems"/>
+<td width="33%" align="center">
+
+### 🛡️ Risk & Recovery
+**Preserving Capital**
+- **Portfolio Diversification**
+- **Dynamic Hedge Logic**
+- **Psychology of Automation**
+- **Advanced Backtesting**
+
+<img src="https://img.shields.io/badge/Risk-Pro_Mastery-FF6B6B?style=flat-square" alt="Risk Pro"/>
+
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</div>
+
+---
+
+---
+
+<div align="center">
+
+## 🌐 Our Global Technology Ecosystem
+### Seamless Integration Across All Trading Landscapes
+
+| MetaTrader 4 | MetaTrader 5 | NinjaTrader | TradingView | AI Systems |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/-MT4-00BFFF?style=for-the-badge&logo=meta" width="100%"/> | <img src="https://img.shields.io/badge/-MT5-00D9FF?style=for-the-badge&logo=meta" width="100%"/> | <img src="https://img.shields.io/badge/-NT8-4ECDC4?style=for-the-badge" width="100%"/> | <img src="https://img.shields.io/badge/-TV-FF9800?style=for-the-badge&logo=tradingview" width="100%"/> | <img src="https://img.shields.io/badge/-AI-FF6B6B?style=for-the-badge&logo=openai" width="100%"/> |
+| Professional EAs | Multi-Asset Ops | Futures Focus | Global Charts | Neural Nets |
+| Custom Indicators | Market Depth | Order Flow | Pine Scripting | ML Analysis |
+| Active ✅ | Active ✅ | Active ✅ | Active ✅ | Active ✅ |
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 </div>
 
