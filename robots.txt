@@ -1,0 +1,61 @@
+# InfinityAlgo Academy - Robots.txt for SEO Optimization
+# AI Trading Algorithms | Automated Trading Systems | Expert Advisors
+
+User-agent: *
+Allow: /
+Allow: /InfinityAlgo-Academy
+Allow: /Mad-Turtle-AI
+Allow: /Expert-Quantum-Queen-MT5-v2.6
+Allow: /Advanced-Gold-Trading-V6.4-EA-MT4-
+Allow: /FTMO-Protector-PRO-MT4
+Allow: /Footprint-Price-Action-Pro
+Allow: /Footprint-Orderflow-Indicator-for-NinjaTrader
+Allow: /DeepTest-TradingView-Indicator-Free-Download
+
+# Sitemap Location
+Sitemap: https://github.com/InfinityAlgo-Academy/InfinityAlgo-Academy/sitemap.xml
+
+# Crawl Delay for Bots
+Crawl-delay: 1
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+# Baidu Bot
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# AI Search Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Keywords for SEO
+# AI Trading, Algorithmic Trading, Automated Trading, Expert Advisors, Trading Bots
+# MetaTrader 4, MetaTrader 5, NinjaTrader, TradingView
+# Forex Trading, Stock Trading, Crypto Trading, Gold Trading
+# Machine Learning, Neural Networks, Deep Learning, Artificial Intelligence

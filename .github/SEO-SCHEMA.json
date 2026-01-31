@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://infinityalgoacademy.net/#organization",
+      "name": "InfinityAlgo Academy",
+      "url": "https://infinityalgoacademy.net",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://infinityalgoacademy.net/logo.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "World's leading provider of AI trading algorithms, automated trading systems, expert advisors, and professional trading education for MetaTrader, NinjaTrader, and TradingView platforms.",
+      "sameAs": [
+        "https://github.com/InfinityAlgo-Academy",
+        "https://t.me/InfinityAlgo_Group_Topics",
+        "https://infinityalgoacademy.net"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "me@infinityalgoacademy.net",
+        "contactType": "Customer Service",
+        "availableLanguage": ["English", "Arabic"]
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/InfinityAlgo-Academy/#software",
+      "name": "InfinityAlgo Academy Trading Tools",
+      "applicationCategory": "FinanceApplication",
+      "operatingSystem": "Windows, Linux, macOS",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "description": "Professional AI trading algorithms, expert advisors, and automated trading systems for forex, stocks, and cryptocurrency markets.",
+      "keywords": "AI Trading, Algorithmic Trading, Automated Trading, Expert Advisors, Trading Bots, MetaTrader, MT4, MT5, NinjaTrader, TradingView, Forex Trading, Stock Trading, Crypto Trading, Machine Learning, Neural Networks",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "1000",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Course",
+      "@id": "https://infinityalgoacademy.net/#course",
+      "name": "Professional Algorithmic Trading Course",
+      "description": "Comprehensive training in AI trading algorithms, automated trading systems, and expert advisor development.",
+      "provider": {
+        "@type": "Organization",
+        "name": "InfinityAlgo Academy",
+        "sameAs": "https://infinityalgoacademy.net"
+      },
+      "educationalLevel": "Beginner to Advanced",
+      "coursePrerequisites": "Basic trading knowledge",
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "Online",
+        "courseWorkload": "PT40H"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://github.com/InfinityAlgo-Academy/Mad-Turtle-AI#product",
+      "name": "Mad Turtle AI - Advanced Trading Algorithm",
+      "description": "AI-powered trading system with machine learning algorithms for automated trading across multiple markets.",
+      "brand": {
+        "@type": "Brand",
+        "name": "InfinityAlgo Academy"
+      },
+      "category": "Trading Software",
+      "keywords": "AI Trading, Machine Learning, Automated Trading, Trading Bot, Expert Advisor",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "250"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://github.com/InfinityAlgo-Academy#website",
+      "url": "https://github.com/InfinityAlgo-Academy",
+      "name": "InfinityAlgo Academy GitHub",
+      "description": "Open-source AI trading algorithms, expert advisors, and automated trading systems repository.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "InfinityAlgo Academy"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://github.com/search?q=org%3AInfinityAlgo-Academy+{search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://github.com/InfinityAlgo-Academy#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is AI Trading?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI Trading uses artificial intelligence, machine learning, and neural networks to automate trading decisions and execute trades based on market data analysis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What platforms do you support?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We support MetaTrader 4 (MT4), MetaTrader 5 (MT5), NinjaTrader, TradingView, and cTrader platforms with our expert advisors and trading indicators."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are your trading tools free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer both free and premium trading tools. Many indicators and educational resources are available for free on our GitHub repository."
+          }
+        }
+      ]
+    }
+  ]
+}
