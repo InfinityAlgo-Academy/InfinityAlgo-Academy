@@ -1,31 +1,15 @@
 <div align="center">
 
-<!-- Automatic Visitor Counter & Analytics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=👁️%20Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Visitor Counter"/>
-  <img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?label=👥%20Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github" alt="Total Stars"/>
-</p>
-
-<!-- Live Visitor Analytics -->
-<p align="center">
-  <a href="https://github.com/InfinityAlgo-Academy">
-    <img src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10&include_all_commits=true" alt="Real-time GitHub Stats" width="495"/>
-  </a>
-</p>
-
-<!-- Visitor Location Map -->
-<p align="center">
-  <img src="https://github.com/InfinityAlgo-Academy/InfinityAlgo-Academy/raw/main/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'" alt="3D Contribution Graph"/>
-</p>
-
-<!-- Real-time Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAlgo-Academy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=667eea&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" width="100%"/>
-</p>
-
 <!-- SEO Optimized Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=200&section=header&text=INFINITY%20ALGO%20ACADEMY&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Trading%20Algorithms%20%7C%20Automated%20Trading%20Systems%20%7C%20Professional%20Trading%20Tools&descAlignY=55&descAlign=50" width="100%"/>
+
+<!-- Automatic Visitor Counter & Real-Time Analytics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views Counter"/>
+  <img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?label=FOLLOWERS&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github&logoColor=white" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github&logoColor=white" alt="Total Repository Stars"/>
+  <img src="https://img.shields.io/github/last-commit/InfinityAlgo-Academy/InfinityAlgo-Academy?label=LAST+UPDATE&style=for-the-badge&color=00FF00&labelColor=1a1a1a&logo=github&logoColor=white" alt="Last Commit"/>
+</p>
 
 <!-- Animated Typing with SEO Keywords -->
 <a href="https://infinityalgoacademy.net"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🤖+AI+Trading+Algorithms+%26+Strategies;📊+Automated+Trading+Systems+MT4+MT5;💹+TradingView+Indicators+%26+Strategies;🎯+Algorithmic+Trading+Solutions;🌍+Professional+Trading+Education;⚡+Expert+Advisors+%26+Trading+Bots" alt="AI Trading Algorithms, Automated Trading Systems, TradingView Indicators, Algorithmic Trading, Expert Advisors, Trading Bots, Trading Strategies" /></a>
