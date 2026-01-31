@@ -1,5 +1,29 @@
 <div align="center">
 
+<!-- Automatic Visitor Counter & Analytics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=👁️%20Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Visitor Counter"/>
+  <img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?label=👥%20Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github" alt="Total Stars"/>
+</p>
+
+<!-- Live Visitor Analytics -->
+<p align="center">
+  <a href="https://github.com/InfinityAlgo-Academy">
+    <img src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10&include_all_commits=true" alt="Real-time GitHub Stats" width="495"/>
+  </a>
+</p>
+
+<!-- Visitor Location Map -->
+<p align="center">
+  <img src="https://github.com/InfinityAlgo-Academy/InfinityAlgo-Academy/raw/main/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'" alt="3D Contribution Graph"/>
+</p>
+
+<!-- Real-time Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAlgo-Academy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=667eea&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" width="100%"/>
+</p>
+
 <!-- SEO Optimized Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=200&section=header&text=INFINITY%20ALGO%20ACADEMY&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Trading%20Algorithms%20%7C%20Automated%20Trading%20Systems%20%7C%20Professional%20Trading%20Tools&descAlignY=55&descAlign=50" width="100%"/>
 
@@ -547,6 +571,72 @@ Call or Message Anytime
 
 ---
 
+---
+
+## 📊 Live Visitor Analytics & Real-Time Tracking
+
+<div align="center">
+
+### 🌍 Global Visitor Distribution & Profile Analytics
+
+<!-- Visitor Counter with Details -->
+<table>
+<tr>
+<td align="center" width="33%">
+<h1>👁️</h1>
+<h3>Profile Views</h3>
+<img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&color=00D9FF&style=for-the-badge&label=TOTAL%20VIEWS" alt="Total Profile Views"/>
+<br><br>
+<b>Real-time visitor tracking</b><br>
+Every visit is counted automatically
+</td>
+<td align="center" width="33%">
+<h1>👥</h1>
+<h3>GitHub Followers</h3>
+<img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="GitHub Followers Count"/>
+<br><br>
+<b>Growing community</b><br>
+Professional traders worldwide
+</td>
+<td align="center" width="33%">
+<h1>⭐</h1>
+<h3>Repository Stars</h3>
+<img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github&label=TOTAL%20STARS" alt="Total GitHub Stars"/>
+<br><br>
+<b>Community appreciation</b><br>
+Across all repositories
+</td>
+</tr>
+</table>
+
+### 📈 Comprehensive GitHub Analytics
+
+<!-- Detailed Stats Grid -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10&include_all_commits=true&rank_icon=github" alt="Detailed GitHub Statistics" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=InfinityAlgo-Academy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAlgo-Academy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&langs_count=10&card_width=445" alt="Most Used Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InfinityAlgo-Academy&theme=tokyonight&utcOffset=1" alt="Commit Time Distribution" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAlgo-Academy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=667eea&point=00D9FF&area=true&area_color=00D9FF&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" width="100%"/>
+
+### 🏆 GitHub Trophies & Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=InfinityAlgo-Academy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+
+### 🔥 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InfinityAlgo-Academy/InfinityAlgo-Academy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InfinityAlgo-Academy/InfinityAlgo-Academy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/InfinityAlgo-Academy/InfinityAlgo-Academy/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=120&section=footer"/>
@@ -571,10 +661,25 @@ Call or Message Anytime
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/InfinityAlgo-Academy?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a)
-![GitHub Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a)
+<!-- Real-time Metrics -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views Counter"/>
+<img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/InfinityAlgo-Academy/InfinityAlgo-Academy?label=Last%20Updated&style=for-the-badge&color=00FF00&labelColor=1a1a1a" alt="Last Update"/>
+</p>
+
+<br>
+
+<!-- Visitor Map -->
+<img src="https://profile-counter.glitch.me/InfinityAlgo-Academy/count.svg" alt="Visitor Count" style="display:none"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=120&section=footer"/>
+
+### 🌐 Connect With InfinityAlgo Academy
+
+**Website:** [infinityalgoacademy.net](https://infinityalgoacademy.net) | **Email:** [me@infinityalgoacademy.net](mailto:me@infinityalgoacademy.net) | **Telegram:** [@InfinityAlgo_Group_Topics](https://t.me/InfinityAlgo_Group_Topics)
+
+**📍 Serving Professional Traders in 50+ Countries Worldwide**
 
 </div>
