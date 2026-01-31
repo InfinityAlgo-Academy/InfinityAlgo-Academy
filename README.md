@@ -115,21 +115,6 @@
 
 ---
 
-## 📊 Live GitHub Statistics - InfinityAlgo Academy Trading Tools Repository
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=InfinityAlgo-Academy&theme=tokyonight&hide_border=false&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAlgo-Academy&layout=compact&theme=tokyonight&hide_border=false&title_color=00D9FF" alt="Top Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=InfinityAlgo-Academy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false" alt="Top Contributions" />
-
-</div>
-
----
 
 ## 🌟 Premium Trading Products - AI Algorithms & Automated Trading Systems
 
