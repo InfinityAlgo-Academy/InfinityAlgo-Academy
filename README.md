@@ -95,8 +95,9 @@
 <tr>
 <td width="25%" align="center">
 
-### 🤖 AI Systems
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80" />
+<h1>🤖</h1>
+
+### AI Systems
 
 **Advanced AI Trading**
 - Mad Turtle AI
@@ -106,8 +107,9 @@
 </td>
 <td width="25%" align="center">
 
-### 🛡️ Risk Management
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="80" />
+<h1>🛡️</h1>
+
+### Risk Management
 
 **Professional Protection**
 - FTMO Protector PRO
@@ -117,8 +119,9 @@
 </td>
 <td width="25%" align="center">
 
-### 📊 Indicators
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80" />
+<h1>📊</h1>
+
+### Indicators
 
 **Market Analysis**
 - Footprint Pro
@@ -128,8 +131,9 @@
 </td>
 <td width="25%" align="center">
 
-### ⚡ Expert Advisors
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="80" />
+<h1>⚡</h1>
+
+### Expert Advisors
 
 **Automated Trading**
 - Gold Trading EA
@@ -200,30 +204,30 @@
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://infinityalgoacademy.net">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="60" /><br>
+<h1>🌐</h1>
 <b>Website</b><br>
 infinityalgoacademy.net
 </a>
 </td>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://infinityalgoacademy.net/shop">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="60" /><br>
+<h1>🛒</h1>
 <b>Shop</b><br>
 Browse Products
 </a>
 </td>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://t.me/InfinityAlgo_Group_Topics">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60" /><br>
+<h1>💬</h1>
 <b>Telegram</b><br>
 Join Group
 </a>
 </td>
-<td align="center">
+<td align="center" width="25%">
 <a href="mailto:me@infinityalgoacademy.net">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="60" /><br>
+<h1>📧</h1>
 <b>Email</b><br>
 Contact Us
 </a>
@@ -232,14 +236,14 @@ Contact Us
 <tr>
 <td colspan="2" align="center">
 <a href="https://t.me/King_arius_dz">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60" /><br>
+<h1>👨‍💻</h1>
 <b>Direct Contact</b><br>
 @King_arius_dz
 </a>
 </td>
 <td colspan="2" align="center">
 <a href="tel:+213795975712">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="60" /><br>
+<h1>📞</h1>
 <b>Phone</b><br>
 +213 795 97 57 12
 </a>
