@@ -583,10 +583,10 @@ Across all repositories
 ### 📈 Comprehensive GitHub Analytics
 
 <!-- Detailed Stats Grid -->
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10&include_all_commits=true&rank_icon=github" alt="Detailed GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10&include_all_commits=true" alt="Detailed GitHub Statistics" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=InfinityAlgo-Academy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak Statistics" />
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=InfinityAlgo-Academy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&langs_count=10&card_width=445" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAlgo-Academy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Most Used Languages" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InfinityAlgo-Academy&theme=tokyonight&utcOffset=1" alt="Commit Time Distribution" />
 
 <!-- Activity Graph -->
@@ -594,7 +594,7 @@ Across all repositories
 
 ### 🏆 GitHub Trophies & Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=InfinityAlgo-Academy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=InfinityAlgo-Academy&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 
 ### 🔥 Contribution Snake Animation
 
