@@ -436,7 +436,7 @@ Call or Message Anytime
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=00D9FF&labelColor=1a1a1a&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FInfinityAlgo-Academy%2Freadme" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 <br/><br/>
 <h3>👁️ Profile Views</h3>
 <p><b>Real-time visitor tracking</b><br/>Every visit is counted automatically</p>
