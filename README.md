@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- SEO Optimized Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=200&section=header&text=INFINITY%20ALGO%20ACADEMY&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Trading%20Algorithms%20%7C%20Automated%20Trading%20Systems%20%7C%20Professional%20Trading%20Tools&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Professional Header with Enhanced Typography -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=220&section=header&text=INFINITY%20ALGO%20ACADEMY&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Trading%20Algorithms%20%7C%20Automated%20Trading%20Systems%20%7C%20Professional%20Trading%20Tools&descAlignY=56&descAlign=50&fontAlign=50" width="100%"/>
 
-<!-- Automatic Visitor Counter & Real-Time Analytics -->
+<!-- Real-Time Analytics Dashboard -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views Counter"/>
   <img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?label=FOLLOWERS&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github&logoColor=white" alt="GitHub Followers"/>
@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/github/last-commit/InfinityAlgo-Academy/InfinityAlgo-Academy?label=LAST+UPDATE&style=for-the-badge&color=00FF00&labelColor=1a1a1a&logo=github&logoColor=white" alt="Last Commit"/>
 </p>
 
-<!-- Animated Typing with SEO Keywords -->
-<a href="https://infinityalgoacademy.net"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=🤖+AI+Trading+Algorithms+%26+Automated+Systems;📊+MetaTrader+MT4+MT5+Expert+Advisors;💹+TradingView+%26+NinjaTrader+Indicators;🎯+Professional+Algorithmic+Trading+Solutions;🌍+Global+Trading+Education+%26+Support;⚡+Expert+Advisors+%26+Trading+Bots" alt="AI Trading Algorithms" /></a>
+<!-- Dynamic Typing Animation -->
+<a href="https://infinityalgoacademy.net"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=🤖+AI+Trading+Algorithms+%26+Automated+Systems;📊+MetaTrader+MT4+MT5+Expert+Advisors;💹+TradingView+%26+NinjaTrader+Indicators;🎯+Professional+Algorithmic+Trading+Solutions;🌍+Global+Trading+Education+%26+Support;⚡+Expert+Advisors+%26+Trading+Bots" alt="AI Trading Algorithms" /></a>
 
-<!-- SEO-Rich Badges -->
+<!-- Premium Badges -->
 <p>
   <img src="https://img.shields.io/badge/⭐_Trading_Tools-30+-FFD700?style=for-the-badge&labelColor=1a1a1a" alt="Trading Tools"/>
   <img src="https://img.shields.io/badge/🤖_AI_Algorithms-Advanced-00D9FF?style=for-the-badge&labelColor=1a1a1a" alt="AI Trading Algorithms"/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/📈_Success_Rate-95%25-00FF00?style=for-the-badge&labelColor=1a1a1a" alt="Trading Success Rate"/>
 </p>
 
-<!-- Social & Platform Links -->
+<!-- Quick Access Links -->
 <p>
   <a href="https://infinityalgoacademy.net"><img src="https://img.shields.io/badge/🌐_Official_Website-infinityalgoacademy.net-00D9FF?style=for-the-badge&labelColor=1a1a1a" alt="Trading Academy Website"/></a>
   <a href="https://infinityalgoacademy.net/shop"><img src="https://img.shields.io/badge/🛒_Trading_Tools_Shop-Browse_Now-4ECDC4?style=for-the-badge&labelColor=1a1a1a" alt="Buy Trading Tools"/></a>
@@ -194,72 +194,100 @@
 <details open>
 <summary><h3>🤖 AI Trading Systems & Machine Learning Algorithms</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **🐢 Mad Turtle AI** | Advanced AI trading system with machine learning algorithms for automated trading | AI Trading, Machine Learning, Automated Trading, Trading Bot | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Mad-Turtle-AI?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Mad-Turtle-AI) |
-| **⚡ Quantum Queen MT5** | Quantum-based expert advisor with advanced AI algorithms for MetaTrader 5 | MT5 EA, Expert Advisor, Algorithmic Trading, Quantum Trading | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Expert-Quantum-Queen-MT5-v2.6?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Expert-Quantum-Queen-MT5-v2.6) |
-| **🥇 Gold Trading EA** | Specialized gold (XAUUSD) trading algorithm v6.4 for MetaTrader 4 | Gold Trading, XAUUSD EA, Forex Robot, MT4 Expert Advisor | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Advanced-Gold-Trading-V6.4-EA-MT4-?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Advanced-Gold-Trading-V6.4-EA-MT4-) |
-| **🔄 AW Recovery EA** | Intelligent recovery expert advisor for drawdown management and account recovery | Recovery EA, Drawdown Management, Risk Management, MT4 EA | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/AW-Recovery-EA-MT?style=social) | [View →](https://github.com/InfinityAlgo-Academy/AW-Recovery-EA-MT) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **🐢 Mad Turtle AI** | Advanced AI trading system with machine learning algorithms for automated trading | `AI Trading` `Machine Learning` `Automated Trading` `Trading Bot` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Mad-Turtle-AI?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Mad-Turtle-AI) |
+| **⚡ Quantum Queen MT5** | Quantum-based expert advisor with advanced AI algorithms for MetaTrader 5 | `MT5 EA` `Expert Advisor` `Algorithmic Trading` `Quantum Trading` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Expert-Quantum-Queen-MT5-v2.6?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Expert-Quantum-Queen-MT5-v2.6) |
+| **🥇 Gold Trading EA** | Specialized gold (XAUUSD) trading algorithm v6.4 for MetaTrader 4 | `Gold Trading` `XAUUSD EA` `Forex Robot` `MT4 Expert Advisor` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Advanced-Gold-Trading-V6.4-EA-MT4-?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Advanced-Gold-Trading-V6.4-EA-MT4-) |
+| **🔄 AW Recovery EA** | Intelligent recovery expert advisor for drawdown management and account recovery | `Recovery EA` `Drawdown Management` `Risk Management` `MT4 EA` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/AW-Recovery-EA-MT?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/AW-Recovery-EA-MT) |
+
+</div>
 
 </details>
 
 <details open>
 <summary><h3>🛡️ Risk Management & Prop Firm Trading Tools</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **🛡️ FTMO Protector PRO** | Professional risk management tool for FTMO challenges and prop firm trading | FTMO, Prop Trading, Risk Management, Account Protection | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/FTMO-Protector-PRO-MT4?style=social) | [View →](https://github.com/InfinityAlgo-Academy/FTMO-Protector-PRO-MT4) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **🛡️ FTMO Protector PRO** | Professional risk management tool for FTMO challenges and prop firm trading | `FTMO` `Prop Trading` `Risk Management` `Account Protection` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/FTMO-Protector-PRO-MT4?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/FTMO-Protector-PRO-MT4) |
+
+</div>
 
 </details>
 
 <details open>
 <summary><h3>📊 NinjaTrader Indicators - Order Flow & Market Analysis</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **📊 Footprint Price Action** | Advanced market microstructure analysis and order flow for NinjaTrader | NinjaTrader, Order Flow, Footprint Chart, Market Microstructure | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Footprint-Price-Action-Pro?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Footprint-Price-Action-Pro) |
-| **💹 Footprint Orderflow** | Advanced order flow analysis and volume profile for NinjaTrader platform | Order Flow Trading, Volume Analysis, NinjaTrader Indicator | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Footprint-Orderflow-Indicator-for-NinjaTrader?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Footprint-Orderflow-Indicator-for-NinjaTrader) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **📊 Footprint Price Action** | Advanced market microstructure analysis and order flow for NinjaTrader | `NinjaTrader` `Order Flow` `Footprint Chart` `Market Microstructure` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Footprint-Price-Action-Pro?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Footprint-Price-Action-Pro) |
+| **💹 Footprint Orderflow** | Advanced order flow analysis and volume profile for NinjaTrader platform | `Order Flow Trading` `Volume Analysis` `NinjaTrader Indicator` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Footprint-Orderflow-Indicator-for-NinjaTrader?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Footprint-Orderflow-Indicator-for-NinjaTrader) |
+
+</div>
 
 </details>
 
 <details open>
 <summary><h3>📈 TradingView Indicators & Pine Script Strategies</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **🔬 DeepTest TradingView** | Advanced backtesting indicator for TradingView - Free Download | TradingView, Backtesting, Pine Script, Trading Strategy | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/DeepTest-TradingView-Indicator-Free-Download?style=social) | [View →](https://github.com/InfinityAlgo-Academy/DeepTest-TradingView-Indicator-Free-Download) |
-| **🔍 Arbitrage Detector** | LuxAlgo arbitrage detection tool for cryptocurrency trading - Free | Crypto Trading, Arbitrage, TradingView, Cryptocurrency | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Arbitrage-Detector-LuxAlgo-Free-Download?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Arbitrage-Detector-LuxAlgo-Free-Download) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **🔬 DeepTest TradingView** | Advanced backtesting indicator for TradingView - Free Download | `TradingView` `Backtesting` `Pine Script` `Trading Strategy` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/DeepTest-TradingView-Indicator-Free-Download?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/DeepTest-TradingView-Indicator-Free-Download) |
+| **🔍 Arbitrage Detector** | LuxAlgo arbitrage detection tool for cryptocurrency trading - Free | `Crypto Trading` `Arbitrage` `TradingView` `Cryptocurrency` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Arbitrage-Detector-LuxAlgo-Free-Download?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Arbitrage-Detector-LuxAlgo-Free-Download) |
+
+</div>
 
 </details>
 
 <details open>
 <summary><h3>📈 MetaTrader Indicators & Technical Analysis Tools</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **📊 ACD Indicator MT5** | Advanced price action indicator for MetaTrader 5 platform | MT5 Indicator, Price Action, Technical Analysis, MetaTrader | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/ACD-Indicator-for-MetaTrader-5?style=social) | [View →](https://github.com/InfinityAlgo-Academy/ACD-Indicator-for-MetaTrader-5) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **📊 ACD Indicator MT5** | Advanced price action indicator for MetaTrader 5 platform | `MT5 Indicator` `Price Action` `Technical Analysis` `MetaTrader` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/ACD-Indicator-for-MetaTrader-5?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/ACD-Indicator-for-MetaTrader-5) |
+
+</div>
 
 </details>
 
 <details open>
 <summary><h3>🤖 AI & Automation Tools - Trading Technology</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **🌐 InfinityDomainOracle** | AI-powered domain analysis platform using artificial intelligence | AI Platform, Domain Analysis, Machine Learning, Automation | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/InfinityDomainOracle?style=social) | [View →](https://github.com/InfinityAlgo-Academy/InfinityDomainOracle) |
-| **✍️ AI-Writy** | AI-powered content creation and digital marketing platform | AI Content, Digital Marketing, Content Creation, AI Writing | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/AI-Writy?style=social) | [View →](https://github.com/InfinityAlgo-Academy/AI-Writy) |
-| **💻 Cursor Pro Free** | Free Cursor Pro features and development tools | Development Tools, Coding, Programming, Free Tools | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/cursor-pro-free?style=social) | [View →](https://github.com/InfinityAlgo-Academy/cursor-pro-free) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **🌐 InfinityDomainOracle** | AI-powered domain analysis platform using artificial intelligence | `AI Platform` `Domain Analysis` `Machine Learning` `Automation` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/InfinityDomainOracle?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/InfinityDomainOracle) |
+| **✍️ AI-Writy** | AI-powered content creation and digital marketing platform | `AI Content` `Digital Marketing` `Content Creation` `AI Writing` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/AI-Writy?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/AI-Writy) |
+| **💻 Cursor Pro Free** | Free Cursor Pro features and development tools | `Development Tools` `Coding` `Programming` `Free Tools` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/cursor-pro-free?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/cursor-pro-free) |
+
+</div>
 
 </details>
 
 <details open>
 <summary><h3>📦 Complete Trading Libraries & Resources</h3></summary>
 
-| Repository | Description | Keywords | Stars | Link |
-|------------|-------------|----------|-------|------|
-| **📦 Complete Library 2026** | Comprehensive collection of all professional trading tools and algorithms | Trading Library, Complete Collection, Trading Tools, All Products | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Infinity-Algo-Academy-Complete-Trading-Products-Library-2026-Edition-?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Infinity-Algo-Academy-Complete-Trading-Products-Library-2026-Edition-) |
-| **🛠️ Professional Tools Library** | Complete professional trading tools and algorithms library | Professional Tools, Trading Algorithms, Development Library | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/Complete-Professional-Trading-Tools-Algorithms-Library?style=social) | [View →](https://github.com/InfinityAlgo-Academy/Complete-Professional-Trading-Tools-Algorithms-Library) |
-| **⚡ InfinityAlgo V3** | Latest version of core trading algorithm and platform | Trading Platform, Core Algorithm, Latest Version, Trading System | ![](https://img.shields.io/github/stars/InfinityAlgo-Academy/InfinityAlgoV3?style=social) | [View →](https://github.com/InfinityAlgo-Academy/InfinityAlgoV3) |
+<div align="center">
+
+| 🏆 Repository | 📝 Description | 🔑 Keywords | ⭐ Stars | 🔗 Link |
+|:-------------|:---------------|:-----------|:---------|:--------|
+| **📦 Complete Library 2026** | Comprehensive collection of all professional trading tools and algorithms | `Trading Library` `Complete Collection` `Trading Tools` `All Products` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Infinity-Algo-Academy-Complete-Trading-Products-Library-2026-Edition-?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Infinity-Algo-Academy-Complete-Trading-Products-Library-2026-Edition-) |
+| **🛠️ Professional Tools Library** | Complete professional trading tools and algorithms library | `Professional Tools` `Trading Algorithms` `Development Library` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/Complete-Professional-Trading-Tools-Algorithms-Library?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/Complete-Professional-Trading-Tools-Algorithms-Library) |
+| **⚡ InfinityAlgo V3** | Latest version of core trading algorithm and platform | `Trading Platform` `Core Algorithm` `Latest Version` `Trading System` | ![Stars](https://img.shields.io/github/stars/InfinityAlgo-Academy/InfinityAlgoV3?style=flat-square&color=FFD700) | [**View →**](https://github.com/InfinityAlgo-Academy/InfinityAlgoV3) |
+
+</div>
 
 </details>
 
@@ -550,58 +578,73 @@ Call or Message Anytime
 
 ### 🌍 Global Visitor Distribution & Profile Analytics
 
-<!-- Visitor Counter with Details -->
+<!-- Professional Stats Cards -->
 <table>
 <tr>
 <td align="center" width="33%">
-<h1>👁️</h1>
-<h3>Profile Views</h3>
-<img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&color=00D9FF&style=for-the-badge&label=TOTAL%20VIEWS" alt="Total Profile Views"/>
-<br><br>
-<b>Real-time visitor tracking</b><br>
-Every visit is counted automatically
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=00D9FF&labelColor=1a1a1a&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FInfinityAlgo-Academy%2Freadme" alt="Profile Views"/>
+<br/><br/>
+<h3>👁️ Profile Views</h3>
+<p><b>Real-time visitor tracking</b><br/>Every visit is counted automatically</p>
 </td>
 <td align="center" width="33%">
-<h1>👥</h1>
-<h3>GitHub Followers</h3>
-<img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="GitHub Followers Count"/>
-<br><br>
-<b>Growing community</b><br>
-Professional traders worldwide
+<img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="GitHub Followers"/>
+<br/><br/>
+<h3>👥 GitHub Followers</h3>
+<p><b>Growing community</b><br/>Professional traders worldwide</p>
 </td>
 <td align="center" width="33%">
-<h1>⭐</h1>
-<h3>Repository Stars</h3>
-<img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github&label=TOTAL%20STARS" alt="Total GitHub Stars"/>
-<br><br>
-<b>Community appreciation</b><br>
-Across all repositories
+<img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github&label=TOTAL%20STARS" alt="Total Stars"/>
+<br/><br/>
+<h3>⭐ Repository Stars</h3>
+<p><b>Community appreciation</b><br/>Across all repositories</p>
 </td>
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
 ### 📈 Comprehensive GitHub Analytics
 
-<!-- Detailed Stats Grid -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InfinityAlgo-Academy&theme=tokyonight" alt="Detailed GitHub Statistics" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=InfinityAlgo-Academy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak Statistics" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InfinityAlgo-Academy&theme=tokyonight" alt="GitHub Statistics" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com/?user=InfinityAlgo-Academy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&border_radius=10" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InfinityAlgo-Academy&theme=tokyonight" alt="Top Languages" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InfinityAlgo-Academy&theme=tokyonight&utcOffset=1" alt="Productive Time" width="100%"/>
+</td>
+</tr>
+</table>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InfinityAlgo-Academy&theme=tokyonight" alt="Most Used Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InfinityAlgo-Academy&theme=tokyonight&utcOffset=1" alt="Commit Time Distribution" />
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAlgo-Academy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=667eea&point=00D9FF&area=true&area_color=00D9FF&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" width="100%"/>
+### 📊 Contribution Activity Graph
 
-### 🏆 GitHub Trophies & Achievements
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAlgo-Academy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=667eea&point=00D9FF&area=true&area_color=00D9FF&custom_title=Contribution%20Activity%20Graph&height=300" alt="Contribution Graph" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfinityAlgo-Academy&theme=tokyonight" alt="GitHub Profile Details" width="100%"/>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
-### 🔥 Contribution Snake Animation
+### 🏆 GitHub Profile Details
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfinityAlgo-Academy&theme=tokyonight" alt="Profile Details" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+### 🔥 Contribution Snake Animation - InfinityAlgo
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InfinityAlgo-Academy/InfinityAlgo-Academy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InfinityAlgo-Academy/InfinityAlgo-Academy/output/github-contribution-grid-snake.svg">
+  <img alt="InfinityAlgo Contribution Snake Animation" src="https://raw.githubusercontent.com/InfinityAlgo-Academy/InfinityAlgo-Academy/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -610,47 +653,62 @@ Across all repositories
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 ## 🌟 InfinityAlgo Academy - Your Gateway to Professional Trading Success
 
-**© 2026 InfinityAlgo Academy** | **AI Trading Algorithms** | **Automated Trading Systems** | **Professional Trading Education**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=150&section=footer" width="100%"/>
 
-**Empowering Traders Worldwide with Cutting-Edge Technology**
+### 💼 Professional Trading Solutions Provider
 
-<br>
+**© 2026 InfinityAlgo Academy** - Empowering Traders Worldwide with Cutting-Edge AI Technology
 
+<br/>
+
+<!-- Footer Badges -->
 [![Made with ❤️](https://img.shields.io/badge/Made_with-❤️_by_Professional_Traders-FF6B6B?style=for-the-badge&labelColor=1a1a1a)](https://infinityalgoacademy.net)
 [![Powered by AI](https://img.shields.io/badge/Powered_by-Artificial_Intelligence-00D9FF?style=for-the-badge&labelColor=1a1a1a&logo=openai&logoColor=white)](https://infinityalgoacademy.net)
 [![Built for Traders](https://img.shields.io/badge/Built_for-Professional_Traders_Worldwide-4ECDC4?style=for-the-badge&labelColor=1a1a1a&logo=tradingview&logoColor=white)](https://infinityalgoacademy.net)
 
-<br>
+<br/>
 
-**🚀 Start Your Professional Trading Journey Today with InfinityAlgo Academy! 🚀**
+### � Quick Links
 
-**Keywords:** Trading Academy, Trading School, Trading Mentor, Trading Coach, Trading Expert, Trading Professional
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://infinityalgoacademy.net">
+<img src="https://img.shields.io/badge/🌐-Official_Website-00D9FF?style=for-the-badge&labelColor=1a1a1a" alt="Website"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://infinityalgoacademy.net/shop">
+<img src="https://img.shields.io/badge/🛒-Trading_Shop-4ECDC4?style=for-the-badge&labelColor=1a1a1a" alt="Shop"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://t.me/InfinityAlgo_Group_Topics">
+<img src="https://img.shields.io/badge/💬-Telegram-26A5E4?style=for-the-badge&labelColor=1a1a1a" alt="Telegram"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:me@infinityalgoacademy.net">
+<img src="https://img.shields.io/badge/📧-Email-EA4335?style=for-the-badge&labelColor=1a1a1a" alt="Email"/>
+</a>
+</td>
+</tr>
+</table>
 
-<br>
+<br/>
 
-<!-- Real-time Metrics -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=InfinityAlgo-Academy&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views Counter"/>
-<img src="https://img.shields.io/github/followers/InfinityAlgo-Academy?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/InfinityAlgo-Academy?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a" alt="Stars"/>
-<img src="https://img.shields.io/github/last-commit/InfinityAlgo-Academy/InfinityAlgo-Academy?label=Last%20Updated&style=for-the-badge&color=00FF00&labelColor=1a1a1a" alt="Last Update"/>
-</p>
+### 📍 Serving Professional Traders in 50+ Countries Worldwide
 
-<br>
+**AI Trading** | **Algorithmic Trading** | **Automated Trading Systems** | **Professional Trading Education**
 
-<!-- Visitor Map -->
-<img src="https://profile-counter.glitch.me/InfinityAlgo-Academy/count.svg" alt="Visitor Count" style="display:none"/>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667eea,100:764ba2&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
-### 🌐 Connect With InfinityAlgo Academy
-
-**Website:** [infinityalgoacademy.net](https://infinityalgoacademy.net) | **Email:** [me@infinityalgoacademy.net](mailto:me@infinityalgoacademy.net) | **Telegram:** [@InfinityAlgo_Group_Topics](https://t.me/InfinityAlgo_Group_Topics)
-
-**📍 Serving Professional Traders in 50+ Countries Worldwide**
+**� Start Your Professional Trading Journey Today with InfinityAlgo Academy! 🚀**
 
 </div>
