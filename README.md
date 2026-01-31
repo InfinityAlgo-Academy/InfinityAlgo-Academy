@@ -12,7 +12,7 @@
 </p>
 
 <!-- Animated Typing with SEO Keywords -->
-<a href="https://infinityalgoacademy.net"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🤖+AI+Trading+Algorithms+%26+Strategies;📊+Automated+Trading+Systems+MT4+MT5;💹+TradingView+Indicators+%26+Strategies;🎯+Algorithmic+Trading+Solutions;🌍+Professional+Trading+Education;⚡+Expert+Advisors+%26+Trading+Bots" alt="AI Trading Algorithms, Automated Trading Systems, TradingView Indicators, Algorithmic Trading, Expert Advisors, Trading Bots, Trading Strategies" /></a>
+<a href="https://infinityalgoacademy.net"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=🤖+AI+Trading+Algorithms+%26+Automated+Systems;📊+MetaTrader+MT4+MT5+Expert+Advisors;💹+TradingView+%26+NinjaTrader+Indicators;🎯+Professional+Algorithmic+Trading+Solutions;🌍+Global+Trading+Education+%26+Support;⚡+Expert+Advisors+%26+Trading+Bots" alt="AI Trading Algorithms" /></a>
 
 <!-- SEO-Rich Badges -->
 <p>
@@ -31,7 +31,7 @@
   <a href="mailto:me@infinityalgoacademy.net"><img src="https://img.shields.io/badge/📧_Email-Trading_Support-EA4335?style=for-the-badge&labelColor=1a1a1a&logo=gmail" alt="Trading Support Email"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 </div>
 
@@ -119,11 +119,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10" alt="InfinityAlgo Academy GitHub Stats - Trading Algorithms Repository" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=InfinityAlgo-Academy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="InfinityAlgo Academy GitHub Streak - Automated Trading Development" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InfinityAlgo-Academy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InfinityAlgo-Academy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAlgo-Academy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Trading Algorithms Programming Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InfinityAlgo-Academy&theme=tokyonight&utcOffset=1" alt="InfinityAlgo Academy Development Activity" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAlgo-Academy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=InfinityAlgo&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10&layout=compact" alt="Coding Activity" />
 
 </div>
 
